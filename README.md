@@ -4,7 +4,7 @@
 spring-cloud 微服务组件demo
 ===
 
-![image](http://img.blog.csdn.net/20171018201759315?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcmlja2l5ZWF0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![image](https://avatars0.githubusercontent.com/u/33015961?s=88&v=4)
 
 <table>
 <tbody><tr>
@@ -75,4 +75,4 @@ spring-cloud 微服务组件demo
 7、如果你想查看断路器的监控台，请启动hystrix-dashboard（单机）和turbine（集群）工程，使用方法代码注释有写。 <br>
 8、如果你想知道服务之间的调用情况，启动sleuth、service-B2、service-A。 <br>
 
-联系方式：qq930999349
+
